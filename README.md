@@ -1,2 +1,2 @@
-# Student-e-voting hssm
+# Student-e-voting
 Branch named voting is created successfully!
